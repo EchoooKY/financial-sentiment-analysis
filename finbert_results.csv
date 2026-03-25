@@ -1,0 +1,101 @@
+headline,sentiment,finbert_pred,correct
+"According to Gran , the company has no plans to move all production to Russia , although that is where the company is growing .",neutral,neutral,True
+"Technopolis plans to develop in stages an area of no less than 100,000 square meters in order to host companies working in computer technologies and telecommunications , the statement said .",neutral,neutral,True
+"The international electronic industry company Elcoteq has laid off tens of employees from its Tallinn facility ; contrary to earlier layoffs the company contracted the ranks of its office workers , the daily Postimees reported .",negative,negative,True
+With the new production plant the company would increase its capacity to meet the expected increase in demand and would improve the use of raw materials and therefore increase the production profitability .,positive,positive,True
+"According to the company 's updated strategy for the years 2009-2012 , Basware targets a long-term net sales growth in the range of 20 % -40 % with an operating profit margin of 10 % -20 % of net sales .",positive,positive,True
+FINANCING OF ASPOCOMP 'S GROWTH Aspocomp is aggressively pursuing its growth strategy by increasingly focusing on technologically more demanding HDI printed circuit boards PCBs .,positive,positive,True
+"For the last quarter of 2010 , Componenta 's net sales doubled to EUR131m from EUR76m for the same period a year earlier , while it moved to a zero pre-tax profit from a pre-tax loss of EUR7m .",positive,positive,True
+"In the third quarter of 2010 , net sales increased by 5.2 % to EUR 205.5 mn , and operating profit by 34.9 % to EUR 23.5 mn .",positive,positive,True
+Operating profit rose to EUR 13.1 mn from EUR 8.7 mn in the corresponding period in 2007 representing 7.7 % of net sales .,positive,positive,True
+"Operating profit totalled EUR 21.1 mn , up from EUR 18.6 mn in 2007 , representing 9.7 % of net sales .",positive,positive,True
+TeliaSonera TLSN said the offer is in line with its strategy to increase its ownership in core business holdings and would strengthen Eesti Telekom 's offering to its customers .,positive,positive,True
+"STORA ENSO , NORSKE SKOG , M-REAL , UPM-KYMMENE Credit Suisse First Boston ( CFSB ) raised the fair value for shares in four of the largest Nordic forestry groups .",positive,positive,True
+"A purchase agreement for 7,200 tons of gasoline with delivery at the Hamina terminal , Finland , was signed with Neste Oil OYj at the average Platts index for this September plus eight US dollars per month .",positive,positive,True
+"Finnish Talentum reports its operating profit increased to EUR 20.5 mn in 2005 from EUR 9.3 mn in 2004 , and net sales totaled EUR 103.3 mn , up from EUR 96.4 mn .",positive,positive,True
+"Clothing retail chain Sepp+Æl+Æ 's sales increased by 8 % to EUR 155.2 mn , and operating profit rose to EUR 31.1 mn from EUR 17.1 mn in 2004 .",positive,positive,True
+"Consolidated net sales increased 16 % to reach EUR74 .8 m , while operating profit amounted to EUR0 .9 m compared to a loss of EUR0 .7 m in the prior year period .",positive,positive,True
+"Foundries division reports its sales increased by 9.7 % to EUR 63.1 mn from EUR 57.5 mn in the corresponding period in 2006 , and sales of the Machine Shop division increased by 16.4 % to EUR 41.2 mn from EUR 35.4 mn in the corresponding period in 2006 .",positive,positive,True
+"HELSINKI ( AFX ) - Shares closed higher , led by Nokia after it announced plans to team up with Sanyo to manufacture 3G handsets , and by Nokian Tyres after its fourth-quarter earnings report beat analysts ' expectations , dealers said .",positive,positive,True
+"Incap Contract Manufacturing Services Pvt Ltd , a subsidiary of Incap Corporation of Finland , plans to double its revenues by 2007-2008 .",positive,positive,True
+"Its board of directors will propose a dividend of EUR0 .12 per share for 2010 , up from the EUR0 .08 per share paid in 2009 .",positive,positive,True
+"Lifetree was founded in 2000 , and its revenues have risen on an average by 40 % with margins in late 30s .",positive,positive,True
+"( Filippova ) A trilateral agreement on investment in the construction of a technology park in St Petersburg was to have been signed in the course of the forum , Days of the Russian Economy , that opened in Helsinki today .",positive,positive,True
+"MegaFon 's subscriber base increased 16.1 % in 2009 to 50.5 million users as of December 31 , while its market share by the number of customers amounted to 24 % as of late 2009 , up from 23 % as of late 2008 , according to TeliaSonera estimates .",positive,positive,True
+"Net income from life insurance doubled to EUR 6.8 mn from EUR 3.2 mn , and net income from non-life insurance rose to EUR 5.2 mn from EUR 1.5 mn in the corresponding period in 2009 .",positive,positive,True
+Net sales increased to EUR193 .3 m from EUR179 .9 m and pretax profit rose by 34.2 % to EUR43 .1 m. ( EUR1 = USD1 .4 ),positive,positive,True
+"Net sales surged by 18.5 % to EUR167 .8 m. Teleste said that EUR20 .4 m , or 12.2 % , of the sales came from the acquisitions made in 2009 .",positive,positive,True
+Nordea Group 's operating profit increased in 2010 by 18 percent year-on-year to 3.64 billion euros and total revenue by 3 percent to 9.33 billion euros .,positive,positive,True
+"Operating profit for the nine-month period increased from EUR13 .6 m , while net sales increased from EUR394 .7 m , as compared to the corresponding period in 2005 .",positive,positive,True
+"Operating profit for the nine-month period increased from EUR3 .1 m and net sales increased from EUR61 .5 m , as compared to the corresponding period in 2007 .",positive,positive,True
+"Operating profit for the three-month period increased from EUR1 .2 m , while revenue increased from EUR20 .2 m , as compared to the corresponding period in 2005 .",positive,positive,True
+"The Brazilian unit of Finnish security solutions provider F-Secure signed up 1,500 new clients last year , online news source Reseller Web quoted the division 's commercial director , Vladimir Brand+_o , as saying .",positive,positive,True
+"The company 's net profit rose 11.4 % on the year to 82.2 million euros in 2005 on sales of 686.5 million euros , 13.8 % up on the year , the company said earlier .",positive,positive,True
+"The Lithuanian beer market made up 14.41 million liters in January , a rise of 0.8 percent from the year-earlier figure , the Lithuanian Brewers ' Association reporting citing the results from its members .",positive,positive,True
+"Viking Line 's cargo revenue increased by 5.4 % to EUR 21.46 mn , and cargo volume increased by 2.4 % to 70,116 cargo units .",positive,positive,True
+"The fair value of the property portfolio doubled as a result of the Kapiteeli acquisition and totalled EUR 2,686.2 1,259.7 million .",positive,positive,True
+10 February 2011 - Finnish media company Sanoma Oyj HEL : SAA1V said yesterday its 2010 net profit almost tripled to EUR297 .3 m from EUR107 .1 m for 2009 and announced a proposal for a raised payout .,positive,positive,True
+"A Helsinki : ELIiV today reported EPS of EUR1 .13 for 2009 , an increase over EPS of EUR1 .12 in 2008 .",positive,positive,True
+"Aspo Plc STOCK EXCHANGE RELEASE February 11 , 2011 at8 .45 a.m. ESL Shipping Ltd , part of Aspo Group , has signed a new , long-term contract with Rautaruukki Corporation for the marine transport of raw materials on the Baltic Sea .",positive,positive,True
+"Commission income increased by 22 % to EUR 4.4 mn , and lending volume rose by 13.5 % .",positive,positive,True
+"In January , traffic , measured in revenue passenger kilometres RPK , went up by 3.2 % and capacity , measured in available seat kilometres ASK , rose by 12.2 % .",positive,positive,True
+"In January-September 2010 , Fiskars ' net profit went up by 14 % year-on-year to EUR 65.4 million and net sales to EUR 525.3 million from EUR 487.7 million .",positive,positive,True
+"Net income from life insurance rose to EUR 16.5 mn from EUR 14.0 mn , and net income from non-life insurance to EUR 22.6 mn from EUR 15.2 mn in 2009 .",positive,positive,True
+"Nyrstar has also agreed to supply to Talvivaara up to 150,000 tonnes of sulphuric acid per annum for use in Talvivaara 's leaching process during the period of supply of the zinc in concentrate .",positive,positive,True
+"Sales for both the Department Store Division and Hobby Hall increased by 7 % , while sales for the clothing store subsidiary Seppala decreased by 4 % .",positive,positive,True
+Sales have risen in other export markets .,positive,positive,True
+Sales increased due to growing market rates and increased operations .,positive,positive,True
+The agreement strengthens our long-term partnership with Nokia Siemens Networks .,positive,positive,True
+"The agreement was signed with Biohit Healthcare Ltd , the UK-based subsidiary of Biohit Oyj , a Finnish public company which develops , manufactures and markets liquid handling products and diagnostic test systems .",positive,positive,True
+The company also estimates the already carried out investments to lead to an increase in its net sales for 2010 from 2009 when they reached EUR 141.7 million .,positive,positive,True
+"The company 's order book stood at 1.5 bln euro $ 2.2 bln on September 30 , 2007 , up by 24.2 pct on the year , with international orders amounting to 365 mln euro $ 534.3 mln .",positive,positive,True
+"The company said that paper demand increased in all of its main markets , including of publication papers , and that it increased average paper prices by 4 percent compared with last year .",positive,positive,True
+"The world 's second largest stainless steel maker said net profit in the three-month period until Dec. 31 surged to euro603 million US$ 781 million , or euro3 .33 US$ 4.31 per share , from euro172 million , or euro0 .94 per share , the previous year .",positive,positive,True
+"Within the framework of the partnership , Nokia Siemens Networks has signed an initial framework purchase agreement with Sitronics subsidiary , JSC Mikron , which is the largest manufacturer and exporter of microelectronic components in Russia .",positive,positive,True
+"Seppala 's revenue increased by 0.2 % to EUR10 .1 m. In Finland , revenue went down by 2.4 % to EUR6 .8 m , while sales abroad rose by 6.2 % to EUR3 .3 m. Sales increased in all the Baltic countries as well as in Russia and Ukraine .",positive,negative,False
+"Shares of Standard Chartered ( STAN ) rose 1.2 % in the FTSE 100 , while Royal Bank of Scotland ( RBS ) shares rose 2 % and Barclays shares ( BARC ) ( BCS ) were up 1.7 % .",positive,positive,True
+Shares of Nokia Corp. rose Thursday after the cell phone maker said its third-quarter earnings almost doubled and its share of the global handset market increased .,positive,positive,True
+"In its financial report , published on Friday , SEB said its net profit soared to SEK6 .745 bn in 2010 from a year-earlier SEK1 .114 bn and proposed a 50 % dividend increase to SEK1 .50 per share .",positive,positive,True
+Sales for the Department Store Division increased by 15 % and sales for the clothing store subsidiary Seppala increased by 8 % Meanwhile sales for Hobby Hall decreased by 12 % .,positive,positive,True
+"At the request of Finnish media company Alma Media 's newspapers , research manager Jari Kaivo-oja at the Finland Futures Research Centre at the Turku School of Economics has drawn up a future scenario for Finland 's national economy by using a model developed by the University of Denver .",neutral,neutral,True
+"In Sweden , Gallerix accumulated SEK denominated sales were down 1 % and EUR denominated sales were up 11 % .",neutral,negative,False
+The company supports its global customers in developing new technologies and offers a fast route from product development to applications and volume production .,neutral,positive,False
+"When this investment is in place , Atria plans to expand into the Moscow market .",neutral,neutral,True
+"`` The new agreement is a continuation to theagreement signed earlier this year with the Lemminkainen Group , whereby Cramo acquired the entire construction machine fleet ofLemminkainen Talo Oy Ita - ja Pohjois Suomo , and signed asimilar agreement , '' said Tatu Hauhio , managing director ofCramo Finland .",neutral,positive,False
+"At first the contract envisaged the construction of three ferryboats with an option for two more units , further confirmed at a total value of 500 mln euro ( $ 645.8 mln ) .",positive,positive,True
+"In June it sold a 30 percent stake to Nordstjernan , and the investment group has now taken up the option to acquire EQT 's remaining shares .",neutral,neutral,True
+"KESKO CORPORATION STOCK EXCHANGE RELEASE 28.02.2008 AT 09.30 1 ( 1 ) Kesko Corporation and Aspo plc today signed an agreement by which Aspo acquires the share capital of Kauko-Telko Ltd , a subsidiary wholly owned by Kesko .",positive,positive,True
+Sponda Plc Stock Exchange Release 5 December 2006 at 15.45 EUR 1.5 BILLION SYNDICATED CREDIT FACILITY FOR SPONDA Sponda has signed an agreement for a one-year syndicated credit facility for a total of EUR 1.5 billion .,positive,positive,True
+STOCK EXCHANGE ANNOUNCEMENT 20 July 2006 1 ( 1 ) BASWARE SHARE SUBSCRIPTIONS WITH WARRANTS AND INCREASE IN SHARE CAPITAL A total of 119 850 shares have been subscribed with BasWare Warrant Program .,neutral,positive,False
+"The contract covers HDO platform , AC800 and CXE880 optical Fttb nodes designed to increase the forward and return path capacity of the transmission networks .",positive,positive,True
+The new plant is planned to have an electricity generation capacity of up to 350 megawatts ( MW ) and the same heat generation capacity .,neutral,neutral,True
+"The OMX Helsinki 25 index was up 0.92 pct at 2,518.67 and the Helsinki CAP portfolio index was 0.91 pct higher at 4,711.19 .",positive,positive,True
+"- So , the sales growth of cars considerably influence on the tires market '' .",neutral,neutral,True
+"A maximum of 666,104 new shares can further be subscribed for by exercising B options under the 2004 stock option plan .",neutral,neutral,True
+"As a result of the share issue , the number of the company 's shares increases by 391,630 shares and the share capital by a total of EUR 15,665.20 .",neutral,positive,False
+"Finnish real estate investor Sponda Plc said on Wednesday 12 March that it has signed agreements with Danske Bank A-S , Helsinki Branch for a 7-year EUR150m credit facility and with Ilmarinen Mutual Pension Insurance Company for a 7-year EUR50m credit facility .",neutral,positive,False
+"On the route between Helsinki in Finland and Tallinn in Estonia , cargo volumes increased by 36 % , while cargo volumes between Finland and Sweden fell by 9 % .",neutral,positive,False
+"Other measures included increasing synergies and economies of scale within the Grimaldi Group and personnel adjustments , divestments and redelivery of excess tonnage .",neutral,positive,False
+"Rinkuskiai raised the sales by 18.1 percent , to 1.37 million liters , while the sales of Kauno Alus grew by 14.3 percent , to 960,000 liters .",positive,positive,True
+TELECOMWORLDWIRE-7 April 2006-TJ Group Plc sells stake in Morning Digital Design Oy Finnish IT company TJ Group Plc said on Friday 7 April that it had signed an agreement on selling its shares of Morning Digital Design Oy to Edita Oyj .,neutral,positive,False
+TELECOMWORLDWIRE-7 April 2006-TJ Group Plc sells stake in Morning Digital Design Oy Finnish IT company TJ Group Plc said on Friday 7 April that it had signed an agreement on selling its shares of Morning Digital Design Oy to Edita Oyj .,positive,positive,True
+"The 718,430 new Series A shares will become subject to trading on the Helsinki Stock Exchange 's Main List , together with the old Series A shares , on July 3 , 2006 .",neutral,neutral,True
+The fuel purchase contracts have been signed with three months ' delivery from this September to November .,neutral,positive,False
+Tiimari operates 194 stores in six countries -- including its core Finnish market -- and generated a turnover of 76.5 mln eur in 2005 .,neutral,neutral,True
+Under this agreement Biohit becomes a focus supplier of pipettors and disposable pipettor tips to VWR customers throughout Europe .,positive,positive,True
+"The combination of all services enabling us to offer a complex and strengthened service chain not only limited to the Baltic port connections but also for getting access to the world wide Grimaldi Network into the Mediterranean , Africa and North America `` says Uwe Bakosch .",positive,positive,True
+No blind-spots coming from 1 vantage point allows investigators to see the whole story in high resolution with no unbroken video .,neutral,neutral,True
+"The company still expects its turnover in 2010 to slightly increase from the level of 2009 , adding that `` market predictability is still too poor for trustworthy forecasts on the market development of the contract manufacturing business during the current year '' .",positive,positive,True
+The acquisition will considerably increase Kemira 's sales and market position in the Russian metal industry coatings market .,positive,positive,True
+"In January-September 2007 , Finnlines ' net sales rose to EUR 505.4 mn from EUR 473.5 mn in the corresponding period in 2006 .",positive,positive,True
+"Adjusted for changes in the Group structure , the Division 's net sales increased by 1.7 % .",positive,positive,True
+"`` The change will optimize the operational efficiencies of our growing business , '' said Julia Prohaska , director of marketing communications for Fiskars .",positive,positive,True
+"`` They would invest not only in the physical infrastructure , but would also provide know-how for managing and developing science and technology parks , '' said Sunrise Valley director Andrius Bagdonas .",positive,positive,True
+"4 February 2011 - Finnish broadband data communication systems provider Teleste Oyj HEL : TLT1V saw its net profit jump to EUR2 .1 m for the last quarter of 2010 from EUR995 ,000 for the same period of 2009 .",positive,positive,True
+Finnish Aktia Group 's operating profit rose to EUR 17.5 mn in the first quarter of 2010 from EUR 8.2 mn in the first quarter of 2009 .,positive,positive,True
+Finnish Bank of +_land 's consolidated net operating profit increased from EUR 4.8 mn in the first quarter of 2005 to EUR 6.4 mn in the first quarter of 2006 .,positive,positive,True
+"Finnish financial group Aktia reports operating profit of EUR 44.4 mn in January-September 2009 , up from EUR 37.3 mn in the corresponding period in 2008 .",positive,positive,True
+"Finnish high technology provider Vaahto Group reports net sales of EUR 41.8 mn in the accounting period September 2007 - February 2008 , an increase of 11.2 % from a year earlier .",positive,positive,True
+Net sales of Finnish food industry company L+Ænnen Tehtaat 's continuing operations increased by 13 % in 2008 to EUR 349.1 mn from EUR 309.6 mn in 2007 .,positive,positive,True
+An individual promotion also generated slightly higher-than-expected revenues .,positive,positive,True
+Biohit already services many current Genesis customers and the customer base is expected to expand as a result of this agreement .,positive,positive,True
