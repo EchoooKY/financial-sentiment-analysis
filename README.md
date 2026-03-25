@@ -38,44 +38,8 @@ This project analyzes the effectiveness of different sentiment analysis approach
 
 ![Results Visualization](results.png)
 
-### Why FinBERT Outperforms VADER
 
-1. **Domain Knowledge**: FinBERT understands that "restructuring" or "cost-cutting" may be positive for investors, while VADER may interpret these negatively
-2. **Context Awareness**: Transformer architecture captures sentence-level context
-3. **Financial Vocabulary**: Trained on financial-specific terminology
 
-## Project Structure
-
-```
-financial-sentiment-analysis/
-├── project.py           # Main analysis script
-├── all-data.csv         # Dataset
-├── results.png          # Visualization output
-├── finbert_results.csv  # Detailed prediction results
-├── README.md            # This file
-└── requirements.txt     # Dependencies
-```
-
-## Installation
-
-```bash
-pip install pandas matplotlib seaborn scikit-learn vaderSentiment transformers torch
-```
-
-## Usage
-
-```bash
-python project.py
-```
-
-## Tech Stack
-
-- Python 3.x
-- pandas - Data manipulation
-- matplotlib / seaborn - Visualization
-- scikit-learn - Evaluation metrics
-- vaderSentiment - Baseline sentiment analysis
-- transformers (Hugging Face) - FinBERT model
 
 ## Future Work
 
@@ -84,16 +48,5 @@ python project.py
 - Correlate sentiment scores with actual stock price movements
 - Implement real-time financial news sentiment tracking
 
-## References
 
-- Malo, P., et al. (2014). "Good debt or bad debt: Detecting semantic orientations in economic texts." *Journal of the Association for Information Science and Technology*
-- Araci, D. (2019). "FinBERT: Financial Sentiment Analysis with Pre-trained Language Models"
-- Hutto, C.J. & Gilbert, E.E. (2014). "VADER: A Parsimonious Rule-based Model for Sentiment Analysis of Social Media Text"
 
-## Author
-
-Echo | UBC Computer Science
-
-## License
-
-MIT
